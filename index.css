@@ -1,0 +1,20 @@
+body {
+    background-color:beige;
+}
+
+
+div {
+    text-align: center;
+}
+
+img {
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+input {
+    height: 27px;
+    width: 250px;
+    border: 3px solid red;
+    border-radius: 10px;
+}
